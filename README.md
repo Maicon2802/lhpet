@@ -1,4 +1,3 @@
-# lhpet
 <Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
